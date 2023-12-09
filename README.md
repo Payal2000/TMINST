@@ -29,7 +29,6 @@ The CNN model includes:
 
 - **Accuracy**: Overall correctness of the model.
 - **Precision & Recall**: Measures of the model's exactness and completeness.
-- **F1-Score**: The harmonic mean of precision and recall.
 - **Confusion Matrix**: Visual tool to identify misclassifications.
 
 ## Post-Processing
@@ -44,13 +43,6 @@ Post-training analysis includes:
 
 The final model can be deployed for various applications, such as document digit recognition and typeface style transfer tasks.
 
-## Getting Started
 
-To get started with this project, clone the repository and install the required dependencies as listed in `requirements.txt`.
-
-```bash
-git clone https://github.com/your-username/tmnist-character-recognition.git
-cd tmnist-character-recognition
-pip install -r requirements.txt
 
 
